@@ -1,0 +1,3 @@
+do
+msgbox("ÄãÊÇÖí")
+loop
